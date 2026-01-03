@@ -1,2 +1,2 @@
 CREDITS:
-- The Tank Buster - HAAU ( modeler, texture artist )
+- The Tank Buster - HAAU ( modeler, texture artist, etc )

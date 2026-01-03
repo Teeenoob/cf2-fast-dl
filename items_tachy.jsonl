@@ -32,7 +32,7 @@
 			"item_slot"	"primary"
 			"item_logname"	"tank_minigun"
 			"item_iconname"	"tank_minigun"
-			"image_inventory"	"backpack/workshop/weapons/c_models/c_tank_minigun_gun/c_tank_minigun_gun"
+			"image_inventory"	"backpack/workshop/weapons/c_models/c_gatling_gun/c_gatling_gun"
 			"image_inventory_size_w"		"128"
 			"image_inventory_size_h"		"82"
 			"model_player"	"models/workshop/weapons/c_models/c_tank_minigun/c_tank_minigun_gun.mdl"

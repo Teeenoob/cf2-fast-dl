@@ -1,8 +1,4 @@
-# cf-fast-dl
-
-Fast DL for custom fortress stuff
-
-also 
+# Fast DL for custom fortress
 
 ## "How to use your [tools](https://github.com/Teeenoob/cf-fast-dl/tree/main/tools) and what they do?"
 

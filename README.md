@@ -12,6 +12,8 @@ also
 
 ## Maps.pl Tool:
 
+Makes mapcycle.txt file with all the map names from same folder (for simple copy paste)
+
 * Copy / Move it to steam team fortress 2 map folder: `...\Steam\steamapps\common\Team Fortress 2\tf\maps`
   * And run it, idk.
 
